@@ -1,6 +1,6 @@
 {
   "name": "gulp-bundle-assets",
-  "version": "2.26.0",
+  "version": "2.29.0",
   "description": "Create asset (js, css) bundles from a config file leveraging the power of streams",
   "main": "index.js",
   "scripts": {
@@ -35,6 +35,14 @@
     {
       "name": "narthollis",
       "url": "https://github.com/narthollis"
+    },
+    {
+      "name": "PlasmaPower",
+      "url": "https://github.com/PlasmaPower"
+    },
+    {
+      "name": "jcarrivick-adapt",
+      "url": "https://github.com/jcarrivick-adapt"
     }
   ],
   "license": "MIT",
@@ -80,7 +88,7 @@
     "gulp-uglify": "1.5.3",
     "gulp-util": "3.0.7",
     "lazypipe": "0.2.3",
-    "lodash": "3.9.3",
+    "lodash": "4.17.21",
     "map-stream": "0.0.6",
     "merge-stream": "0.1.7",
     "mkdirp": "0.5.1",

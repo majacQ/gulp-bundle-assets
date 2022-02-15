@@ -168,6 +168,8 @@ while still being as flexible and customizable as possible.
 
 ## Changelog
 
+* 2017/04/15 - v2.28.0 - add options to output src files in result [#90](https://github.com/dowjones/gulp-bundle-assets/issues/90) ([@PlasmaPower](https://github.com/PlasmaPower))
+* 2016/05/23 - v2.27.0 - add consistent `result.json` ordering [#71](https://github.com/dowjones/gulp-bundle-assets/issues/71) ([@PlasmaPower](https://github.com/PlasmaPower))
 * 2016/05/06 - v2.26.0 - update many deps including: `gulp-less` 3.1.0, `gulp-coffee` 2.3.2 and `gulp-if` 2.0.1
 * 2016/05/06 - v2.25.0 - update to use `gulp-clean-css` 2.0.7 instead of deprecated `gulp-minify-css` module
 * 2016/03/17 - v2.24.0 - update to `gulp-less` 3.0.5 and `gulp-uglify` 1.5.3
